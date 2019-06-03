@@ -81,7 +81,7 @@ boy_name_data <- build_data(boy_first_url)
 girl_first_url <- "http://www.thinkbabynames.com/popular/0/us"
 girl_name_data <- build_data(girl_first_url)
 
-a <- get_names(girl_first_url)
+
 
 
 
